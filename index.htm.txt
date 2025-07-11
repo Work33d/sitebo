@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Бонусы Казино</title>
+
+  <style>
+    /* ===== ГЛОБАЛЬНЫЕ НАСТРОЙКИ ===== */
+    :root {
+      --bg: #000;                 /* фон страницы */
+      --text: #fff;               /* основной цвет текста */
+      --card-radius: 9999px;      /* радиус для «пилюлей» */
+      --gradient: linear-gradient(90deg, #ff4d4f 0%, #ffb800 100%);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 24px;
+    }
+
+    /* ===== КОНТЕЙНЕР ===== */
+    .container {
+      max-width: 420px;
+      margin: auto;
+    }
+
+    /* ===== АВАТАР ===== */
+    .profile-img {
+      width: 110px;
+      aspect-ratio: 1 / 1;
+      border-radius: 50%;
+      margin-bottom: 14px;
+      object-fit: cover;
+      box-shadow: 0 0 10px rgba(0,0,0,.55);
+    }
+
+    /* ===== КНОПКИ ===== */
+    .button {
+      display: block;
+      padding: 16px 28px;
+      margin: 12px 0;
+      font-size: 15px;
+      font-weight: 600;
+      color: #fff;
+      text-decoration: none;
+      background: var(--gradient);
+      border-radius: var(--card-radius);
+      box-shadow: 0 4px 14px rgba(0,0,0,.35);
+      transition: transform .18s, box-shadow .18s;
+    }
+
+    .button:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,.45);
+    }
+
+    .button:active {
+      transform: translateY(0);
+      box-shadow: 0 3px 10px rgba(0,0,0,.4);
+    }
+
+    /* ===== МЕЛКИЙ ТЕКСТ ===== */
+    p {
+      font-size: 14px;
+      line-height: 1.4;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img
+      src="https://i.ibb.co/BVFs18jS/photo-2025-03-03-04-40-01.jpg"
+      alt="Profile"
+      class="profile-img"
+    />
+
+    <h2>400 FREE SPINS BONUS 🎁</h2>
+    <p>Забери 400 бесплатных вращений в каждом проекте ниже 👇🎁</p>
+
+    <a
+      href="https://ping.partners-links.fun/sl?id=663cdce3f91873f117ce1dde&pid=1711"
+      class="button"
+    >
+      🎁 GET A 400 FREE SPINS BONUS 🇰🇿 🇺🇦 🇧🇾 🇩🇪 🇫🇷 🇬🇧 🇵🇱 🇨🇦 🇺🇸 🇳🇱
+    </a>
+
+    <a
+      href="https://martin-way-three.com/cd2290196"
+      class="button"
+    >
+      🇷🇺 Новое казино 🇰🇿 — 400 вращений (VPN выкл.)
+    </a>
+
+    <a
+      href="https://1wfzws.life/casino/list?open=register&p=t9df"
+      class="button"
+    >
+      🇷🇺 1WIN — 400 вращений 🇺🇿 🇧🇾 🇰🇬 🇦🇿 🇦🇲 🇲🇩 (VPN выкл.)
+    </a>
+
+    <a
+      href="https://t.me/spins_bonuss"
+      class="button"
+    >
+      📢 Telegram: бонусы, розыгрыши, ваучеры
+    </a>
+  </div>
+</body>
+</html>
